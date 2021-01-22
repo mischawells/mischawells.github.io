@@ -27,9 +27,9 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        createCannon("top", 450);
-        
-        
+        createCannon("top", 450); //top at x=450
+        createCannon("bottom", 500, 1000); //bottom at y=500 with one sec delay
+        createCannon("left", 200, 1000); //left at y=200 with one sec delay
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
